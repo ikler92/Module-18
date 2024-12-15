@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="002a1900-9ad5-40db-81cd-4e3bf6fd3850" name="Changes" comment="11.12_3">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/tried_task/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/tried_task/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/tried_task/main.html" afterDir="false" />
+    <list default="true" id="002a1900-9ad5-40db-81cd-4e3bf6fd3850" name="Changes" comment="11.12_4">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,8 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/Educations/Module-18/UrbanDjango/templates/fourth_task"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734036051732</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11.12_4">
+      <option name="closed" value="true" />
+      <created>1734038124172</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734038124172</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +127,7 @@
     <MESSAGE value="11.12_1" />
     <MESSAGE value="11.12_2" />
     <MESSAGE value="11.12_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="11.12_3" />
+    <MESSAGE value="11.12_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="11.12_4" />
   </component>
 </project>
