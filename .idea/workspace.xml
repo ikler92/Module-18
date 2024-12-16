@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="002a1900-9ad5-40db-81cd-4e3bf6fd3850" name="Changes" comment="11.12_4">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,11 @@
     "last_opened_file_path": "C:/Users/ADMIN/Desktop/Educations/Module-18/UrbanDjango/templates/fourth_task"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Desktop\Educations\Module-18\UrbanDjango\templates\fourth_task" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734038124172</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="11.12_4">
+      <option name="closed" value="true" />
+      <created>1734290479351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734290479351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
