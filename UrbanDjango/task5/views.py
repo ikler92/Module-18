@@ -22,6 +22,8 @@ def sign_up_by_django(request):
                 info['error'] = 'Пароли не совпадают'
             elif age < 18:
                 info['error'] = 'Вы должны быть старше 18'
+            elif age > 120:
+                info['error'] = 'Возраст не может быть больше 120'
             else:
                 info['success'] = f'Приветствуем, {username}!'
                 users.append(username)
@@ -40,8 +42,10 @@ def sign_up_by_html(request):
 
         try:
             age = int(age)
+            if age < 3 or age > 120:
+                raise ValueError('Возраст вне допустимого диапазона.')
         except ValueError:
-            info['error'] = 'Возраст должен быть числом'
+            info['error'] = 'Возраст должен быть числом от 3 до 120'
             return render(request, 'fifth_task/registration_page.html', info)
 
         if username in users:
